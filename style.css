@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #2e2e2e;
+    background-color: #030404;
     font-family: "Poppins";
 }
 
@@ -150,7 +150,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    width: 98vw;
+    width: 98%;
     gap: 15px;
     margin-inline: auto;
     margin-top: 15px;
@@ -180,4 +180,5 @@ nav {
     width: 12px;
   }
 }
+
 
